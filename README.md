@@ -1,6 +1,10 @@
 # book-data-search
 A data science project intended for searching for information on books through a dataset of over 11,000 books. Relies on the commonly-used DS Python library _pandas_ and its methods, as well as my own functions that are dependent on it.
 
+### **Run on repl.it:**
+* Repl link: https://replit.com/@jusmanov/book-data-search?v=1
+
+
 ### **Current capabilities of this program as of July 13, 2023:**
 * Search for books by title
 * Search for books by author
